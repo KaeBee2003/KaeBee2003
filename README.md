@@ -1,16 +1,65 @@
-## Hi there 👋
 
-<!--
-**KaeBee2003/KaeBee2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Karthik Balaji👋
 
-Here are some ideas to get you started:
+I'm currently pursuing a **Joint MSc in Data Science & Artificial Intelligence** at  
+**University of Birmingham (UK)** and **IIT Madras (India)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data to understand patterns, solve real-world problems, and support better decision making.
+
+My interests include:
+- Data Analysis
+- Machine Learning
+- Predictive Modelling
+- Data Visualisation
+
+---
+
+## 🎓 Education
+
+**MSc Data Science & Artificial Intelligence**  
+University of Birmingham & IIT Madras
+
+**Bachelor's Degree – Production Engineering**  
+National Institute of Technology Tiruchirappalli  
+Minor: Computer Applications
+
+---
+
+## 🛠 Skills
+
+**Programming**
+- Python
+- SQL
+
+**Data Tools**
+- Pandas
+- NumPy
+- Power BI
+- Excel
+
+**Machine Learning**
+- Regression Models
+- Classification Models
+- Neural Networks
+- Recommendation Systems
+
+---
+
+## Selected Projects
+
+### Predictive Maintenance using Machine Learning
+Explored how machine data can be used to anticipate equipment failures before they occur.  
+Presented research findings at an international conference.
+
+### Delivery Time Prediction
+Analysed operational data to understand factors affecting delivery timelines and explored predictive approaches to improve estimation reliability.
+
+### Customer Recommendation System
+Studied purchasing patterns to generate product recommendations based on historical customer behaviour.
+
+---
+
+## Connect With Me
+
+[[LinkedIn](https://www.linkedin.com/in/karthikbalajinv/)]  
+Email: nvkarthik2003@gmail.com
