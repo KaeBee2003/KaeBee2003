@@ -1,65 +1,47 @@
+# Karthik Balaji
 
-# Hi, I'm Karthik Balaji👋
+I am currently pursuing a **Joint MSc in Data Science and Artificial Intelligence** delivered by  
+**Indian Institute of Technology Madras (IITM)** and the **University of Birmingham (UoB)**.
 
-I'm currently pursuing a **Joint MSc in Data Science & Artificial Intelligence** at  
-**University of Birmingham (UK)** and **IIT Madras (India)**.
+My academic background is in **Production Engineering**, with a minor in **Computer Applications**, which introduced me to data analysis, machine learning, and statistical reasoning.
 
-I enjoy working with data to understand patterns, solve real-world problems, and support better decision making.
-
-My interests include:
-- Data Analysis
-- Machine Learning
-- Predictive Modelling
-- Data Visualisation
+I am particularly interested in how data can be used to support **decision-making, operational efficiency, and predictive insights** across real-world systems.
 
 ---
 
-## 🎓 Education
+## Current Focus
 
-**MSc Data Science & Artificial Intelligence**  
-University of Birmingham & IIT Madras
+My current areas of learning include:
 
-**Bachelor's Degree – Production Engineering**  
+- Data analysis and interpretation
+- Predictive modelling
+- Applied machine learning
+- Data-driven decision making
+- Visual communication of analytical findings
+
+---
+
+## Academic Background
+
+**MSc – Data Science and Artificial Intelligence**  
+Joint programme – IIT Madras & University of Birmingham
+
+**Bachelor’s Degree – Production Engineering**  
 National Institute of Technology Tiruchirappalli  
-Minor: Computer Applications
+Minor in Computer Applications
+
+Relevant areas studied include:
+
+- Machine Learning
+- Data Structures and Algorithms
+- Database Management Systems
+- Statistical Analysis
 
 ---
 
-## 🛠 Skills
 
-**Programming**
-- Python
-- SQL
+## Connect
 
-**Data Tools**
-- Pandas
-- NumPy
-- Power BI
-- Excel
+[LinkedIn](https://www.linkedin.com/in/karthikbalajinv/)
 
-**Machine Learning**
-- Regression Models
-- Classification Models
-- Neural Networks
-- Recommendation Systems
-
----
-
-## Selected Projects
-
-### Predictive Maintenance using Machine Learning
-Explored how machine data can be used to anticipate equipment failures before they occur.  
-Presented research findings at an international conference.
-
-### Delivery Time Prediction
-Analysed operational data to understand factors affecting delivery timelines and explored predictive approaches to improve estimation reliability.
-
-### Customer Recommendation System
-Studied purchasing patterns to generate product recommendations based on historical customer behaviour.
-
----
-
-## Connect With Me
-
-[[LinkedIn](https://www.linkedin.com/in/karthikbalajinv/)]  
 Email: nvkarthik2003@gmail.com
