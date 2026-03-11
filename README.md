@@ -1,47 +1,18 @@
-# Karthik Balaji
+# Karthik Balaji N V
 
-I am currently pursuing a **Joint MSc in Data Science and Artificial Intelligence** delivered by  
-**Indian Institute of Technology Madras (IITM)** and the **University of Birmingham (UoB)**.
+MSc candidate in **Data Science & Artificial Intelligence** — joint programme at **IIT Madras** and the **University of Birmingham**. Background in Production Engineering with a minor in Computer Applications.
 
-My academic background is in **Production Engineering**, with a minor in **Computer Applications**, which introduced me to data analysis, machine learning, and statistical reasoning.
-
-I am particularly interested in how data can be used to support **decision-making, operational efficiency, and predictive insights** across real-world systems.
+Interested in predictive modelling, applied machine learning, and using data to support real-world decision-making.
 
 ---
 
-## Current Focus
+## Education
 
-My current areas of learning include:
-
-- Data analysis and interpretation
-- Predictive modelling
-- Applied machine learning
-- Data-driven decision making
-- Visual communication of analytical findings
+**MSc Data Science & Artificial Intelligence** · IIT Madras & University of Birmingham  
+**BEng Production Engineering** · NIT Tiruchirappalli · Minor: Computer Applications
 
 ---
 
-## Academic Background
+## Get in touch
 
-**MSc – Data Science and Artificial Intelligence**  
-Joint programme – IIT Madras & University of Birmingham
-
-**Bachelor’s Degree – Production Engineering**  
-National Institute of Technology Tiruchirappalli  
-Minor in Computer Applications
-
-Relevant areas studied include:
-
-- Machine Learning
-- Data Structures and Algorithms
-- Database Management Systems
-- Statistical Analysis
-
----
-
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/karthikbalajinv/)
-
-Email: nvkarthik2003@gmail.com
+[LinkedIn](https://www.linkedin.com/in/karthikbalajinv/) · nvkarthik2003@gmail.com
