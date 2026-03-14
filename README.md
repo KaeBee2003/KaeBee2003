@@ -1,6 +1,6 @@
 # Karthik Balaji N V
 
-MSc candidate in **Data Science & Artificial Intelligence** — joint programme at **IIT Madras** and the **University of Birmingham**. Background in Production Engineering with a minor in Computer Applications.
+MSc candidate in **Data Science & Artificial Intelligence** joint programme at **IIT Madras** and the **University of Birmingham**. Background in Production Engineering with a minor in Computer Applications.
 
 Interested in predictive modelling, applied machine learning, and using data to support real-world decision-making.
 
