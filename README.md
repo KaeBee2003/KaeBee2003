@@ -25,8 +25,6 @@ Data science & ML student exploring the intersection of AI, data, and real-world
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 <table>
   <tr>
     <td>
