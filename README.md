@@ -36,6 +36,16 @@ Built a fraud detection pipeline on 284,000 transactions where fraudulent cases 
 Implemented and benchmarked Bagging, Boosting, and Stacking ensemble methods to forecast bike rental demand on the UCI Bike Sharing Dataset — a hands-on comparison of how each technique trades off bias and variance.
 `Ensemble learning` `Regression` `Bagging · Boosting · Stacking` `Python`
 
+### 📌 [Cartoonizer](https://github.com/KaeBee2003/Cartoonizer) · `Desktop app · downloadable`
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57691de2-a858-4594-a7dc-72d6ffb552b2" width="625" />
+</p>
+
+A desktop GUI app that applies a cartoon effect to any image using K-Means colour quantisation — groups similar pixel colours into clusters, then replaces each pixel with its centroid to reduce palette complexity while preserving structure. Ships as a Windows .exe.
+
+`Computer vision` `K-Means clustering` `OpenCV` `Tkinter GUI` `Python`
+
 ---
 
 ## 📊 GitHub Stats
