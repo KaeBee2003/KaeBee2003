@@ -25,23 +25,31 @@ Data science & ML student exploring the intersection of AI, data, and real-world
 
 ## 🚀 Projects
 
-> [!NOTE]
-> ### 📌 [Credit Default Prediction](https://github.com/KaeBee2003/credit-default-prediction)
-> Analysed a 30,000-record dataset to predict credit defaults, comparing multiple imputation strategies and dimensionality reduction techniques to maintain model performance on messy real-world data.
->
-> `Classification` `Imputation` `Dimensionality reduction` `Python`
+## 🚀 Projects
 
-> [!TIP]
-> ### 📌 [Fraud Detection on Imbalanced Data](https://github.com/KaeBee2003/fraud-detection-imbalanced-data)
-> Built a fraud detection pipeline on 284,000 transactions where fraudulent cases were extremely rare. Applied resampling and clustering-based techniques to surface patterns the model would otherwise miss.
->
-> `Imbalanced learning` `Resampling` `Clustering` `Python`
-
-> [!IMPORTANT]
-> ### 📌 [Bike Demand Forecasting](https://github.com/KaeBee2003/bike-demand-forecasting)
-> Implemented and benchmarked Bagging, Boosting, and Stacking ensemble methods to forecast bike rental demand on the UCI Bike Sharing Dataset — a hands-on comparison of how each technique trades off bias and variance.
->
-> `Ensemble learning` `Regression` `Bagging · Boosting · Stacking` `Python`
+<table>
+  <tr>
+    <td>
+      <strong>📌 <a href="https://github.com/KaeBee2003/credit-default-prediction">Credit Default Prediction</a></strong><br/>
+      Analysed a 30,000-record dataset to predict credit defaults, comparing multiple imputation strategies and dimensionality reduction techniques to maintain model performance on messy real-world data.<br/><br/>
+      <code>Classification</code> <code>Imputation</code> <code>Dimensionality reduction</code> <code>Python</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>📌 <a href="https://github.com/KaeBee2003/fraud-detection-imbalanced-data">Fraud Detection on Imbalanced Data</a></strong><br/>
+      Built a fraud detection pipeline on 284,000 transactions where fraudulent cases were extremely rare. Applied resampling and clustering-based techniques to surface patterns the model would otherwise miss.<br/><br/>
+      <code>Imbalanced learning</code> <code>Resampling</code> <code>Clustering</code> <code>Python</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>📌 <a href="https://github.com/KaeBee2003/bike-demand-forecasting">Bike Demand Forecasting</a></strong><br/>
+      Implemented and benchmarked Bagging, Boosting, and Stacking ensemble methods to forecast bike rental demand on the UCI Bike Sharing Dataset — a hands-on comparison of how each technique trades off bias and variance.<br/><br/>
+      <code>Ensemble learning</code> <code>Regression</code> <code>Bagging · Boosting · Stacking</code> <code>Python</code>
+    </td>
+  </tr>
+</table>
 
 
 
