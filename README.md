@@ -65,4 +65,4 @@ Data science & ML student exploring the intersection of AI, data, and real-world
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaeBee2003&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://kaebee2003.github.io/)
+![](https://kaebee2003.github.io)
