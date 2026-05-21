@@ -65,8 +65,3 @@ Data science & ML student exploring the intersection of AI, data, and real-world
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaeBee2003&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaeBee2003&langs_count=10&title_color=444e59&text_color=0891b2&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" />
-</p>
