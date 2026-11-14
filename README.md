@@ -11,7 +11,7 @@ Data science & ML student exploring the intersection of AI, data, and real-world
 
 - 🎓 CS / Data Science student with a focus on ML & AI
 - 🔭 Currently learning deep learning with PyTorch and experimenting with real datasets
-- 📊 Comfortable with the full data workflow — cleaning, analysis, and visualisation
+- 📊 Comfortable with the full data workflow, cleaning, analysis, and visualisation
 - 🎨 Bonus skill: Adobe Photoshop (design thinking helps with data storytelling)
 - 💬 Open to collaborating on data science or ML projects
 
